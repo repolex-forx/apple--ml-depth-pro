@@ -1,0 +1,7 @@
+[2026-11-06T07:53:02Z] === AST ITERATION 1 START | repo=apple/ml-depth-pro sha=9e65e4db ===
+[2026-11-06T07:53:02Z] [iter=1] PHASE START: ast repo=apple/ml-depth-pro sha=9e65e4db
+[2026-11-06T07:53:02Z] [iter=1] Building AST aggregate chunks
+[2026-11-06T07:53:08Z] [iter=1] AST chunks built count=1 triples=54547
+[2026-11-06T07:53:08Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/9e65e4dbe9568d23c546fcec53302b10445e109e/.complete
+[2026-11-06T07:53:08Z] [iter=1] PHASE END: ast elapsed_s=6 elapsed_min=0.1
+[2026-11-06T07:53:08Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
